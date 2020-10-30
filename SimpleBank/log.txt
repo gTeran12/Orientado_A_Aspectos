@@ -1,0 +1,2 @@
+Transaccion: Realizar Transaccion Hora: 19:11:47
+Transaccion: Retirar Dinero Hora: 19:11:58

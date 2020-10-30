@@ -1,7 +1,4 @@
 
-class Aspectos_guia{
-	//Esta clase debe ser eliminada
-}
 
 /*
 public aspect Log {
@@ -13,9 +10,9 @@ public aspect Log {
     after() : success() {
     	System.out.println("**** User created ****");
     }
-}
+}*/
 
-
+/*
 public aspect Logger {
 
     pointcut success() : call(* create*(..) );
@@ -25,5 +22,4 @@ public aspect Logger {
     }
     
 }
-
 */
